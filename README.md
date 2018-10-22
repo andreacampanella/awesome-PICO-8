@@ -110,7 +110,7 @@ How to install the font(s):
 
 ## Hardware
 
-- [PocketC.H.I.P](https://getchip.com/pages/pocketchip) - A portable mini-computer, a game console, a portable synthesizer and a Linux field terminal with PICO-8 pre-installed.
+- [PocketC.H.I.P](https://getchip.com/pages/pocketchip) - A portable mini-computer, a game console, a portable synthesizer and a Linux field terminal with PICO-8 pre-installed. (discontinued)
 
 ## Articles & Posts
 
